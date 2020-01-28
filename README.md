@@ -5,7 +5,7 @@
 Semana del Orgullo LGBT :rainbow: 
 Se trabajó sobre datos de legislación sobre orientación sexual. Pueden encontrar más información sobre los datos [aquí](https://github.com/cienciadedatos/datos-de-miercoles/tree/master/datos/2019/2019-06-19)
 
-Yo enfoqué mi visualización sobre aquellos que penalizan la homosexualidad, y para ello construí una nube de palabras en los que se ven resaltados, con la fuente de mayor tamaño y en color rojo, los nombres de los países que contemplan la pena de muerte para castigar la homosexualidad, en negro se representarán aquellos que castigan con prisión perpetua, y el resto se verá su tamaño de acuerdo a los años de pena que prevé para ese "delito" :dissapointed:
+Yo enfoqué mi visualización sobre aquellos que penalizan la homosexualidad, y para ello construí una nube de palabras en los que se ven resaltados, con la fuente de mayor tamaño y en color rojo, los nombres de los países que contemplan la pena de muerte para castigar la homosexualidad, en negro se representarán aquellos que castigan con prisión perpetua, y el resto se verá su tamaño de acuerdo a los años de pena que prevé para ese "delito" :disappointed:
 
 Librerías utilizadas:
 - Readr
